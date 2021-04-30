@@ -6,12 +6,12 @@ Install:
 
 Thanks and Acknowledgements:
 - Lots of inspiration and ideas from the following creators
-	- inigma - Contract Pack: Giving Aircraft a Purpose (GAP)- https://forum.kerbalspaceprogram.com/index.php?/topic/129208-* 
+	- inigma - Contract Pack: Giving Aircraft a Purpose (GAP)- https://forum.kerbalspaceprogram.com/index.php?/topic/129208-contract-pack-giving-aircraft-a-purpose-gap-161-milestones-air-flights-coast-guard/
 	- Keniamin - Kerbin Side GAP - https://forum.kerbalspaceprogram.com/index.php?/topic/133545-13x-kerbin-side-gap/
 
 - Required Mods
 
-	- Team Galileo - JNSQ - version 0.9.0 - https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*
+	- Team Galileo - JNSQ - version 0.9.0 - https://forum.kerbalspaceprogram.com/index.php?/topic/184880-181-jnsq-090-03-feb-2020/
 		- For full compatability the file https://github.com/Galileo88/JNSQ/releases/download/0.9.0/JNSQ_KK_Fixes.zip must be installed as well.   
 	- AlphaAsh,ozraven,Ger_space - Kerbal Konstructs - https://forum.kerbalspaceprogram.com/index.php?/topic/151818-181-kerbal-konstructs-18115-15dec2019/
 	- nightingale - Contract Configurator - https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/

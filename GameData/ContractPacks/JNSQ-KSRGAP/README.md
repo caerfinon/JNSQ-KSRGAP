@@ -1,6 +1,6 @@
 # JNSQ-KSRGAP
 # Current Version: v1.0.0 
-Port of the Kerbin Side Remastered GAP Contract Pack for Flights to the JNSQ environment
+Port of the Kerbin Side Remastered GAP Contract Pack for Flights to the JNSQ environment 
 
 Install:
 - place directory JNSQ-KSRGAP and all sub directories and files in your Gamedata/ContractPacks directroy (Create if it does not already exist) 
@@ -12,7 +12,8 @@ Thanks and Acknowledgements:
 
 - Required Mods
 
-	- Team Galileo - JNSQ - https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*
+	- Team Galileo - JNSQ - version 0.9.0 - https://forum.kerbalspaceprogram.com/index.php?/topic/184880-181-jnsq-090-03-feb-2020/
+		- For full compatability the file https://github.com/Galileo88/JNSQ/releases/download/0.9.0/JNSQ_KK_Fixes.zip must be installed as well.   
 	- AlphaAsh,ozraven,Ger_space - Kerbal Konstructs - https://forum.kerbalspaceprogram.com/index.php?/topic/151818-181-kerbal-konstructs-18115-15dec2019/
 	- nightingale - Contract Configurator - https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/
 
